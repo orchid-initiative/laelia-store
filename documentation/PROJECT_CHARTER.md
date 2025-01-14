@@ -17,7 +17,7 @@ We will be setting up a virtual storefront as a resale site for members of Nuevo
 ## Business Case / Background
 
 **Why are we doing this?**
-
+There was interest from the Women at Nuevo Amanecer to begin a project like this. Inventory was discovered from various sources and can be used to capitalize on the entreprenueral sprirt of the women at NA. There is also an opportunity to provide them resources that would improve the technical skills as well as give them the confidence to complete the project that could transfer to other parts of enriching their lives. There is also an additional benefit of creating less waste as items get repurposed by buyers. 
 ## Benefits, Costs, and Budget
 
 **Benefits:**
