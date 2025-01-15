@@ -21,29 +21,43 @@ There was interest from the Women at Nuevo Amanecer to begin a project like this
 ## Benefits, Costs, and Budget
 
 **Benefits:**
-
+- Helps sellers gains financial independence by providing a source of income.
+- Offers digital literacy, customer service, and e-commerce skills.
+- Teaches inventory management, marketing, and logistics.
+- Enhances employability and the possibility of new opportunities.
+- Promotes sustainable practices to reduce waste.
+  
 **Costs:**
+- $0 upfront for domain space. 
+- Costs of merchandise and shipping materials.
+- 3.3% of the transaction amount plus $0.45.
+- Cost of shipping.
+- $0-100 for marketing.
 
 **Budget needed:**
-
+- $50 initial budget for shipping materials, but possibly lower the cost through donated materials. 
 
 # Scope and Exclusion
 
 **In-Scope:**
-
+- No/Low investment platform
+- Single virtual storefront
+- Low cost/free advertisement
+  
 **Out-of-Scope:**
+- Physical storefront
+- Paid workers
+- Large storage facility for inventory
   
 # Project Team
-Project Sponsor:
+Project Sponsor:Riley
 
-Product Owner:
+Project Lead: Celeste & Jackie
 
-Project Lead:
+Project Development Team: Diana
 
-Project Development Team:
-
-Additional Stakeholders: 
-
+Additional Stakeholders: Sister Trini and Nuevo Amanacer, Rialto
 
 # Measuring Success
 **What is acceptable:**
+- Net PRofits exceeding $XX/ month
