@@ -66,4 +66,4 @@ Additional Stakeholders: Sister Trini and Nuevo Amanacer, Rialto
 
 # Measuring Success
 **What is acceptable:**
-- Net PRofits exceeding $XX/ month
+- Not accumulating debt while moving out inventory.
