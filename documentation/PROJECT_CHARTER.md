@@ -61,9 +61,9 @@ Organization
 # Project Team
 Project Sponsor: Riley
 
-Project Lead: Celeste & Jackie
+Project Lead: Diana
 
-Project Development Team: Diana
+Project Development Team: Celeste & Jackie
 
 Additional Stakeholders: Sister Trini and Nuevo Amanacer, Rialto
 
