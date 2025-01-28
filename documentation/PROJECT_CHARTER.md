@@ -25,10 +25,12 @@ There is inventory from various sources being stored. We could create less envir
 Project
 - Clear inventory that was donated to the Nuevo Amanacer
 - Promote sustainable practices to reduce waste.
+  
 People
 - Jackie: Learn more about using the technologies and have the opportunity to practice
 - Celeste: Get marketing experience
 - Diana: Get project management experience
+  
 Organization
 - Internship experience with Celeste and Diana
 - Jackie will be more familiar with Orchid
