@@ -37,9 +37,9 @@ Organization
 - Orchid will learn more about proper translation tools to use (Spanish/English)
   
 **Costs:**
-- $0 upfront for domain space. 
+- $0 upfront for domain space.
+- $70/month for storage ( -$210 as of Jan 2025)
 - Costs of merchandise and shipping materials.
-- 3.3% of the transaction amount plus $0.45.
 - Cost of shipping.
 - $0-100 for marketing.
 
