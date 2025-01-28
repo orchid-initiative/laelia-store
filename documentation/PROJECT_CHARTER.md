@@ -59,7 +59,7 @@ Organization
 - Large storage facility for inventory
   
 # Project Team
-Project Sponsor:Riley
+Project Sponsor: Riley
 
 Project Lead: Celeste & Jackie
 
