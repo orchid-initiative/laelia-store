@@ -21,6 +21,7 @@ There is inventory from various sources being stored. We could create less envir
 ## Benefits, Costs, and Budget
 
 **Benefits:**
+
 Project
 - Clear inventory that was donated to the Nuevo Amanacer
 - Promote sustainable practices to reduce waste.
