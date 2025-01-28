@@ -21,11 +21,17 @@ There was interest from the Women at Nuevo Amanecer to begin a project like this
 ## Benefits, Costs, and Budget
 
 **Benefits:**
-- Helps sellers gains financial independence by providing a source of income.
-- Offers digital literacy, customer service, and e-commerce skills.
-- Teaches inventory management, marketing, and logistics.
-- Enhances employability and the possibility of new opportunities.
-- Promotes sustainable practices to reduce waste.
+Project
+- Clear inventory that was donated to the Nuevo Amanacer
+- Promote sustainable practices to reduce waste.
+People
+- Jackie: Learn more about using the technologies and have the opportunity to practice
+- Celeste: Get marketing experience
+- Diana: Get project management experience
+Organization
+- Internship experience with Celeste and Diana
+- Jackie will be more familiar with Orchid
+- Orchid will learn more about proper translation tools to use (Spanish/English)
   
 **Costs:**
 - $0 upfront for domain space. 
