@@ -8,6 +8,5 @@ This project is at the beginning stages of planning. Some inventory exists in st
 
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
-- Have questions or feedback? Join the discussion on our GitHub Discussions page.  Or, you can use the GitHub issues page to report bugs and request new features.
 - [Google Drive folder](https://drive.google.com/drive/folders/1RSMfueIwE9t6M8qAwO20V-5aRF5Ytv6a) (access required)
 - Slack channel: #online-store
