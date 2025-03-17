@@ -1,4 +1,4 @@
-# Online Store (online-store)
+# Laelia Store (laelia-store)
 
 ### Summary
 We will be setting up a virtual storefront as a resale site for members of Nuevo Amanacer. This project will empower the women to learn the steps of setting up an online profile, managing inventory and shipments, and familiarize themselves with running a business. 
