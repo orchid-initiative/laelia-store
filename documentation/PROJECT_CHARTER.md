@@ -3,7 +3,7 @@
 ## Executive Summary
 We will be setting up a virtual storefront as a resale site. 
 ## Project Goals
-- Create inventory management system.
+- Set up an online resale shop. 
 - Launch the online platform within 2 months.
 - Achieve a catalog of 200 items at launch.
 - Make 5 sales within the first month.
@@ -16,7 +16,7 @@ We will be setting up a virtual storefront as a resale site.
 ## Business Case / Background
 
 **Why are we doing this?**
-There is inventory from various sources being stored. We could create less environmental waste as items get repurposed by buyers. This project will also help get the appropriate experience for interns/associates and those skills can translate to other Orchid projects as well. 
+This project is designed to get the appropriate experience for interns/associates and those skills can translate to other Orchid projects. This includes professional meeting experience, learning new technologies like Google Drive, Meet, Slack, and possibly GitHub, marketing experience, and being more fimiliar with Orchid associates.
 
 ## Benefits, Costs, and Budget
 
