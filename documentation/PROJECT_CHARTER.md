@@ -1,7 +1,7 @@
 # Project Charter 
 
 ## Executive Summary
-We will be setting up a virtual storefront as a resale site of donated inventory.
+We will be setting up a virtual storefront as a resale site for donated inventory.
 
 ## Project Goals
 - Set up an online resale shop storefront within 2 months.
@@ -25,7 +25,7 @@ Store Launch
 ## Business Case / Background
 
 **Why are we doing this?**
-This project is designed to get the appropriate experience for interns/associates and those skills can translate to other Orchid projects. This includes professional meeting experience, learning new technologies like Google Drive, Meet, Slack, and possibly GitHub, marketing experience, and being more fimiliar with Orchid associates.
+This project is designed to get the appropriate experience for interns/associates and those skills can translate to other Orchid projects. This includes professional meeting experience, learning modern technologies like Google Drive, Meet, Slack, and possibly GitHub, marketing experience, and being more familiar with Orchid associates.
 
 ## Benefits, Costs, and Budget
 
@@ -36,25 +36,25 @@ Project
 - Promote sustainable practices to reduce waste.
   
 People
-- Jackie: Learn more about using the technologies and have the opportunity to practice
-- Celeste: Get marketing experience
-- Diana: Get project management experience
+- Jackie: Learn more about using technology and have the opportunity to practice.
+- Celeste: Get marketing experience.
+- Diana: Get project management experience.
   
 Organization
 - Internship experience with Celeste and Diana
 - Jackie will be more familiar with Orchid
 - Orchid will learn more about proper translation tools to use (Spanish/English)
-- Can be a practice platform for larger ideas in the future. 
+- It can be a practice platform for larger ideas in the future. 
   
 **Costs:**
 - $0 upfront for domain space.
-- $70/month for storage ( -$210 as of Jan 2025)
+- $70/month for storage (-$210 as of Jan 2025)
 - Costs of merchandise and shipping materials.
 - Cost of shipping.
 - $0-100 for marketing.
 
 **Budget needed:**
-- $50 initial budget for shipping materials, but possibly lower the cost through donated materials. 
+- $50 initial budget for shipping materials but possibly lower the cost through donated materials. 
 
 # Scope and Exclusion
 
