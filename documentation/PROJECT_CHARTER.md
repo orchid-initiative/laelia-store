@@ -1,17 +1,26 @@
 # Project Charter 
 
 ## Executive Summary
-We will be setting up a virtual storefront as a resale site. 
+We will be setting up a virtual storefront as a resale site of donated inventory.
+
 ## Project Goals
-- Set up an online resale shop. 
-- Launch the online platform within 2 months.
-- Achieve a catalog of 200 items at launch.
-- Make 5 sales within the first month.
-- Create marketing plan.
+- Set up an online resale shop storefront within 2 months.
+- Create an Instagram and Facebook page and post twice weekly within the first month.
+- Have the website fully functional with at least five listed products within four weeks.
 
 ## Deliverables
-- Functional e-commerce store.
-- Branding and marketing materials.
+Store Set Up
+- Name the store and create a logo.
+- Create Instagram and Facebook accounts.
+- Create a About Us paragraph. 
+
+Inventory Management
+- Take photos of inventory and store them in Google Photos.
+- Include price and descriptions for each item.
+
+Store Launch
+- Upload photos to social media.
+- Create stories to highlight key pieces. 
   
 ## Business Case / Background
 
@@ -35,6 +44,7 @@ Organization
 - Internship experience with Celeste and Diana
 - Jackie will be more familiar with Orchid
 - Orchid will learn more about proper translation tools to use (Spanish/English)
+- Can be a practice platform for larger ideas in the future. 
   
 **Costs:**
 - $0 upfront for domain space.
