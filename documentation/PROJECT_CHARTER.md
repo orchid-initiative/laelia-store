@@ -6,9 +6,16 @@ We will be setting up a virtual storefront as a resale site for donated inventor
 ## Project Goals
 - Set up an online resale shop storefront within 2 months.
 - Create an Instagram and Facebook page and post twice weekly within the first month.
-- Have the website fully functional with at least five listed products within four weeks.
+- Launch a fully functional website with at least five listed products within four weeks.
 
 ## Deliverables
+
+Technical Learning Materials
+- Create a plan with tutorials for
+  - Google Drive
+  - Google photos
+- Cumulative meeting notes document in both English and Spanish
+
 Store Set Up
 - Name the store and create a logo.
 - Create Instagram and Facebook accounts.
